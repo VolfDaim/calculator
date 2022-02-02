@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Daim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Калькулятор систем счисления</string>
+    <string name="nav_header_subtitle">Daim</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_info">Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">
+        Приложение выполняет две функции: перевод числа в любую систему счисления и калькулятор систем счисления.\n
+        Перевод:\n
+     1)Ввод исходного числа.\n
+     2)Ввод исходной системы счисления.\n
+     3)Ввод необходимой системы счисления.\n
+     4)Перевод\n
+        Калькулятор:\n
+     1)Ввод первого операнда.\n
+     2)Задаем систему счисления с помощью кнопки System.\n
+     3)Ввод необходимого действия.\n
+     4)Ввод второго операнда.\n
+     5)Задаем систему счисления с помощью кнопки System.\n
+     6)Расчет выражения.\n
+    </string>
+    <string name="title_activity_set">Сведения</string>
+
+</resources>
